@@ -547,11 +547,14 @@ section {
   padding: 80px 0px;
 }
 #financialBank {
-  background: #f0f0f0;
+  background: #ffffff;
   padding: 80px 0px;
 }
+#financialBank img {
+  object-fit: contain;
+}
 #contractor {
-  background: #ffffff;
+  background: #f0f0f0;
   padding: 80px 0px;
 }
 #consultant {
